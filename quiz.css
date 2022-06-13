@@ -1,0 +1,37 @@
+#que{
+    
+    padding:30px;
+    
+    font-size: larger;
+}
+#opt{
+    
+    padding:100px;
+   
+    font-size:larger;
+}
+#navi{
+    
+    padding:50px;
+
+}
+#evaluate{
+    display:inline-block;
+    display:None;
+    position:relative;
+    
+}
+#prev{
+    display:None;
+}
+#nxt{
+    display:None;
+}
+#opp1,#opp2,#opp3,#opp4{
+    display:None;
+    position:relative;
+}
+#opt1,#opt2,#opt3,#opt4{
+    padding:10px;
+    display:none;
+}
