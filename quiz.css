@@ -1,0 +1,129 @@
+#que{
+    
+    padding:30px;
+    
+    font-size: larger;
+}
+#opt{
+    
+    padding:100px;
+   
+    font-size:larger;
+}
+#navi{
+    
+    padding:50px;
+
+}
+#evaluate{
+    display:inline-block;
+    display:None;
+    position:relative;
+    
+}
+#prev{
+    display:none;
+}
+#sub{
+    display:none;
+    position:absolute;
+    margin-left:600px;
+    margin-right:100px;
+}
+#nxt{
+    display:None;
+    position:absolute;
+    margin-left:1200px;
+}
+#opp1,#opp2,#opp3,#opp4{
+    display:None;
+    
+}
+#opt1,#opt2,#opt3,#opt4{
+    padding:10px;
+    display:none;
+}
+#time{
+    text-align: center;
+}
+#sta{
+    background-color:gold;
+}
+#sta:hover{
+    background-color: green;
+}
+#result{
+    text-align:center;
+    color:red;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    font-size:80px;
+}
+#but{
+    margin-top:50px;
+    margin-left:50px;
+    background-color: deepskyblue;
+}
+#but:hover{
+    background-color:darkgray;
+}
+#matter{
+    font-size:30px;
+    display:block;
+}
+#Q{
+    margin-left:500px;
+    margin-top:200px;
+}
+#Q,#U,#I,#Z{
+    color:Green;
+
+}
+#Q{
+    display:inline-block;
+    margin-top:0px;
+    padding:20px;
+    font-size:2px;
+    transition-property:font-size;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+#U{
+    display:inline-block;
+    padding:20px;
+    font-size: 2px;
+    transition-property:font-size;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+#I{
+    display:inline-block;
+    padding:20px;
+    font-size: 2px;
+    transition-property:font-size;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+#Z{
+    display:inline-block;
+    padding:20px;
+    font-size: 2px;
+    transition-property:font-size;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+#t{
+    color:red;
+    font-size: 30px;
+}
+#Logo{
+    height: 60px;
+}
+#bd{
+    background-color: aquamarine;
+}
+
